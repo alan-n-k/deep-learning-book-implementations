@@ -4,7 +4,6 @@ This is the personal project on implementing the contents of [Deep Learning - An
 
 # Environment
 
-My codes are based on the following versions:
-
 * Python 3.5.2
+* PyTorch 1.0.0
 * pip 8.1.1
